@@ -15,11 +15,11 @@ export const Button = ({
   buttonSize,
   buttonColor
 }) => {
-  const checkButtonStyle = STYLE.includes(buttonStyle) ? buttonStyle : STYLE[0]
+  const checkButtonStyle = STYLE.includes(buttonStyle) ? buttonStyle : STYLE[0];
 
-  const checkButtonSize = STYLE.includes(buttonSize) ? buttonSize : SIZES[0]
+  const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
-  const checkButtonColor = STYLE.includes(buttonColor) ? buttonColor : COLOR[0]
+  const checkButtonColor = COLOR.includes(buttonColor) ? buttonColor : null;
 
   return (
     <button className={`
