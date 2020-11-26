@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
+import { Button } from "./Button"
 import { Link } from 'react-router-dom';
 import { FaBars, FaTimes, FaRainbow} from'react-icons/fa';
-import { Button } from "./Button"
 import "./Navbar.css"
 import { IconContext } from "react-icons/lib"
 
@@ -40,28 +40,28 @@ function Navbar() {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <Link className="nav-links" onClick={closeMobileMenu}>
-                Home
+                WORK
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-links" onClick={closeMobileMenu}>
-                Services
+                ABOUT
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-links" onClick={closeMobileMenu}>
-                Projects
+                CONTACT
               </Link>
             </li>
             <li className="nav-btn">
               {button ? (
                 <Link path="/sign-up" className="btn-link">
-                  <Button buttonStyle="btn--outline"> SIGN UP</Button>
+                  <Button buttonStyle="btn--outline"> RESUME</Button>
                 </Link>
                 ) : (
                 <Link path="/sign-up" className="btn-link" onClick={closeMobileMenu}>
                   <Button buttonStyle="btn--outline" buttonSize="btn--mobile">
-                    SIGN UP
+                    RESUME
                   </Button>
                 </Link>
                 )}

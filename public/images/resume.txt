@@ -1,0 +1,68 @@
+ Nova Togatorop
+FULLSTACK DEVELOPER
+
+
+ABOUT ME
+Product minded developer who like to think and act as a user. Trigger to create a clear and clean design and also try to make conscious decisions to solve real-world problems.
+Working in the design and photography industry for more than 5 years, help me to integrate front and backend development seamlessly.
+
+
+TECHNICAL SKILLS
+• Ruby on Rails
+• ES6 Javascript
+• Relational database, SQL, PostgreSQL
+• Swift, Xcode
+• HTML5, CSS/SCSS, Bootstrap
+• React
+• APIs, JSON, scraping
+• Wireframes, prototyping, UI design
+• Git, GitHub, technical workflow
+• Heroku
+
+
+WEB DEVELOPMENT PROJECTS
+nappiesapp.com 
+Design, built and maintained the whole platform, User and Market research, mobile and desktop design, End to end testing.
+Ruby on Rails, Javascript, PostgreSQL, Swift, HTML, CSS/SCSS, Bootstrap, Git, Github, Heroku, Sendgrid
+
+social-reading.club
+Web application developed by a team of 5. Social Reading is a website to create and join bookgroups.
+Ruby on Rails, Javascript, PostgreSQL, HTML, CSS/SCSS, Bootstrap, Git, Github, Heroku
+
+
+WORK EXPERIENCE
+NAPPIES, Berlin (Jul 2020 - Present) - Founder
+Nappies, the right place to find baby-friendly cafes and restaurants to hangout with your little one in the city. It got released in the iOS store in July 2020
+
+Le Wagon, Berlin (Jan 2020 - Present) - Teaching Assistant
+Help students to solve technical problems and to understand the concepts of Ruby, OOP, MVC Architecture, Ruby on Rails as a teaching assistant at Le Wagon Berlin. By trying to lead them to the solutions, I also learn a lot!
+
+Re-Di School, Berlin (May 2020 - Present) - Teacher/Volunteer
+Help refugee kids to learn code for the first time.
+
+NovaTogatorop.com (Aug 2014 - Oct 2020) - Freelance Photographer
+
+
+EDUCATION
+Lasalle College International, Interior Design (2008 - 2011)
+Jakarta, Indonesia
+
+
+LET”S CHAT:
+nova@roadbeats.com
++4917658159370
+github.com/novatogatorop
+linkedin.com/in/nova-togatorop-26823153/
+
+Currently Location;
+Berlin, Germany
+
+
+
+
+
+
+
+
+
+
