@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Intro from "../../Intro";
 import { homeObjOne, homeObjTwo, homeObjThree } from "./Data";
 
-function Home() {
+function Contact() {
   return (
     <>
       <Intro {...homeObjOne} />
@@ -12,4 +12,4 @@ function Home() {
   )
 };
 
-export default Home;
+export default Contact;
