@@ -1,0 +1,13 @@
+.Card{
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.card-img {
+  width: 180px;
+  object-fit: cover;
+}
+
+.card-title {
+  padding-top: 20px;
+}

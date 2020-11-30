@@ -1,0 +1,19 @@
+.Footer {
+  display: flex;
+  padding-left: 60px;
+  padding-right: 60px;
+  height: 120px;
+  align-items: center;
+}
+
+.slash {
+  padding: 0px 10px;
+}
+
+@media screen and (max-width: 960px) {
+  .Footer {
+    height: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}

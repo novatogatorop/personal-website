@@ -1,5 +1,40 @@
+:root {
+  --light-pink: #f9d9cc;
+  --blue: #364bd6;
+  --yellow: #fdf84a;
+  --pink: #ed7597;
+  --orange: #ec6731;
+  --white: white;
+  --black: black;
+}
+
 * {
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
+  /*font-family: times new roman, sans-serif;*/
+  font-family: helvetica, sans-serif;
+  font-weight: light;
+  color: var(--black);
+  background-color: var(--white);
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 56px;
+  font-style: normal;
+  line-height: 1.2em;
+}
+
+h2 {
+  font-size: 48px;
+  font-style: normal;
+  line-height: 1.2em;
+}
+
+h3 {
+  /*font-size: 40px;*/
+  font-size: 32px;
+  font-style: normal;
+  line-height: 1.2em;
 }
