@@ -33,11 +33,15 @@ function Intro({
                 <div className="intro-top-line">{topLine}</div>
                 <div className="intro-visit">{visit}
                   <a target="_blank" href={webUrl}>
-                    {webAppName}
+                    <Button buttonStyle="btn--plain">
+                      {webAppName}
+                    </Button>
                   </a>
                   <div className="intro-or">{or}</div>
                   <a target="_blank" href={iosUrl}>
-                    {iosAppName}
+                  <Button buttonStyle="btn--plain">
+                      {iosAppName}
+                    </Button>
                   </a>
                 </div>
                 <p className="intro-description">{description}</p>

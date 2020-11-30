@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import "./Projects"
+import Banner from "../../Banner";
+import Intro from "../../Intro";
 import {
   projects,
   projectOne,
   projectTwo,
   projectThree,
   projectFour } from "./Data";
-import Banner from "../../Banner";
-import Intro from "../../Intro";
 
 class Projects extends Component {
   render() {
