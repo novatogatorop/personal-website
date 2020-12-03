@@ -14,6 +14,14 @@ class Footer extends Component {
           <a target="_blank" href="https://github.com/novatogatorop">
             <Button>GITHUB</Button>
           </a>
+          <div className="slash">/</div>
+          <a target="_blank" href="images/resume.pdf">
+            <Button>RESUME</Button>
+          </a>
+          <div className="slash">/</div>
+          <a target="_blank" href="mailto:nova@roadbeats.com">
+            <Button>EMAIL ME</Button>
+          </a>
         </div>
       </>
     );

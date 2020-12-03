@@ -48,12 +48,6 @@ class Home extends Component {
 
 
           <div class="info">
-            <a target="_blank" href="images/resume.pdf">
-              <Button>DOWNLOAD RESUME</Button>
-            </a>
-            <a target="_blank" href="mailto:nova@roadbeats.com">
-              <Button>EMAIL ME</Button>
-            </a>
           </div>
         </div>
       </>

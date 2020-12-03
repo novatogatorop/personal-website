@@ -18,5 +18,5 @@ export const NavbarItems = [
     title: "CONTACT",
     path: "/contact",
     cName: "nav-links"
-  }
+  },
 ]

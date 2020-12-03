@@ -5,50 +5,60 @@ export const technologies= {
 
 export const rails= {
   img: "images/rails.png",
-  title: "Ruby on Rails"
+  title: "Ruby on Rails",
+  alt: ""
 };
 
 export const javascript= {
   img: "images/javascript.png",
-  title: "Javascript"
+  title: "Javascript",
+  alt: ""
 };
 
 export const bootstrap= {
   img: "images/bootstrap.png",
-  title: "Bootstrap"
+  title: "Bootstrap",
+  alt: ""
 };
 
 export const figma= {
   img: "images/figma.png",
-  title: "Figma"
+  title: "Figma",
+  alt: ""
 };
 
 export const github= {
   img: "images/github.png",
-  title: "Github"
+  title: "Github",
+  alt: ""
 };
 
 export const heroku= {
   img: "images/heroku.png",
-  title: "Heroku"
+  title: "Heroku",
+  alt: ""
 };
 
 export const postgresql= {
   img: "images/postgresql.png",
-  title: "PostgreSQL"
+  title: "PostgreSQL",
+  alt: ""
 };
 
 export const react= {
   img: "images/react.png",
-  title: "React"
+  title: "React",
+  alt: ""
 };
 
 export const swift= {
   img: "images/swift.png",
-  title: "Swift"
+  title: "Swift",
+  alt: ""
 };
 
 export const webpack= {
   img: "images/webpack.png",
-  title: "Webpack"
+  title: "Webpack",
+  alt: ""
 };

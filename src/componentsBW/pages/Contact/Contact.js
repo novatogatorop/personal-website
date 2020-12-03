@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
+import Banner from "../../Banner";
+import { contact } from "./Data"
 
 class Contact extends Component {
   render() {
     return (
-      <div></div>
+      <>
+        <Banner {...contact} />
+      </>
     );
   }
 }

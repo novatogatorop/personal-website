@@ -3,7 +3,8 @@ import "./Card.css";
 
 function Card({
   img,
-  title
+  title,
+  alt
 }) {
   return (
     <>
