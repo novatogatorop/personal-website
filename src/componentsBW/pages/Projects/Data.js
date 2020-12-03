@@ -5,7 +5,7 @@ export const projects= {
 
 export const projectOne = {
   headline: "Nappies",
-  topLine: "The right place to find baby-friendly cafes and restaurants to hangout with your little one in the city.",
+  topLine: "A book club platform giving people the opportunity to join and launch reading groups that will meet up in real life, creating new incentives to read..",
   visit: "Visit:",
   webAppName: "Web App",
   webUrl: "https://nappiesapp.com/",

@@ -38,6 +38,7 @@
   letter-spacing: 1px;
   line-height: 16px;
   margin-bottom: 24px;
+  padding-right: 30px;
   /*font-weight: 700;*/
 }
 
@@ -92,11 +93,19 @@
     padding-left: 30px;
     padding-right: 30px;
   }
+
+  .intro-top-line {
+    padding-right: 0px !important;
+  }
 }
 
 @media screen and (max-width: 768px) {
   .intro-text-wrapper {
     padding-bottom: 30px;
+  }
+
+  .intro-top-line {
+    padding-right: 0px !important;
   }
 
   .intro-col {
