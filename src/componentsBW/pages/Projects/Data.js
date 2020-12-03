@@ -24,7 +24,7 @@ export const projectOne = {
 
 export const projectTwo = {
   headline: "Drop me a line",
-  topLine: "The right place to find baby-friendly cafes and restaurants to hangout with your little one in the city.",
+  topLine: "Contact form for Rails app.",
   visit: "Visit:",
   webAppName: "drop-me-a-line.herokuapp.com",
   webUrl: "https://drop-me-a-line.herokuapp.com/",
@@ -32,8 +32,8 @@ export const projectTwo = {
   iosUrl: "",
   or: "",
   description: "Ruby on Rails - PostgreSQL - HTML - CSS/SCSS - Bootstrap - Heroku - Sendgrid",
-  detailPath: "/projects/nappies",
-  detailName: "More details",
+  detailPath: "",
+  detailName: "",
   githubName: "Github",
   githubUrl: "https://github.com/novatogatorop/drop-me-a-line",
   alt: "drop-me-a-line",
@@ -43,26 +43,7 @@ export const projectTwo = {
 
 export const projectThree = {
   headline: "Social Reading",
-  topLine: "The right place to find baby-friendly cafes and restaurants to hangout with your little one in the city.",
-  visit: "Visit:",
-  webAppName: "social-reading.club",
-  webUrl: "http://social-reading.club",
-  iosAppName: "",
-  iosUrl: "",
-  or: "",
-  description: "Ruby on Rails - PostgreSQL - Javasript - HTML - CSS/SCSS - Bootstrap - Heroku",
-  detailPath: "",
-  detailName: "",
-  githubName: "Github",
-  githubUrl: "https://github.com/novatogatorop/drop-me-a-line",
-  alt: "social-reading",
-  img: "images/social-reading.jpg",
-  imgStart: ""
-};
-
-export const projectFour = {
-  headline: "Kopi",
-  topLine: "The right place to find baby-friendly cafes and restaurants to hangout with your little one in the city.",
+  topLine: "A book club platform giving people the opportunity to join and launch reading groups that will meet up in real life, creating new incentives to read.",
   visit: "Visit:",
   webAppName: "social-reading.club",
   webUrl: "http://social-reading.club",
@@ -74,6 +55,25 @@ export const projectFour = {
   detailName: "More details",
   githubName: "",
   githubUrl: "",
+  alt: "social-reading",
+  img: "images/social-reading.jpg",
+  imgStart: ""
+};
+
+export const projectFour = {
+  headline: "Kopi",
+  topLine: "Discover coffee around Indonesia from west to east.",
+  visit: "Visit:",
+  webAppName: "coffee-in-indonesia.surge.sh/",
+  webUrl: "coffee-in-indonesia.surge.sh/",
+  iosAppName: "",
+  iosUrl: "",
+  or: "",
+  description: "React - Surge",
+  detailPath: "",
+  detailName: "",
+  githubName: "Github",
+  githubUrl: "https://github.com/novatogatorop/coffee-in-indonesia",
   alt: "kopi",
   img: "images/kopi.jpg",
   imgStart: "start"
