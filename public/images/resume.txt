@@ -1,60 +1,90 @@
- Nova Togatorop
+Nova Togatorop
 FULLSTACK DEVELOPER
+
+nova@roadbeats.com
++4917658159370
+
 
 
 ABOUT ME
-Product minded developer who like to think and act as a user. Trigger to create a clear and clean design and also try to make conscious decisions to solve real-world problems.
-Working in the design and photography industry for more than 5 years, help me to integrate front and backend development seamlessly.
+
+I'm a product minded Full Stack developer who loves solving real problems with my design and software development skills.
+
+After working in design and photography industry for 5 years, I made a career switch to software development, graduating from Le Wagon, Berlin coding bootcamp in 2019, where I currently work as a teaching assistant.
+
 
 
 TECHNICAL SKILLS
+
 • Ruby on Rails
 • ES6 Javascript
+• React (Learning)
 • Relational database, SQL, PostgreSQL
 • Swift, Xcode
 • HTML5, CSS/SCSS, Bootstrap
-• React
-• APIs, JSON, scraping
-• Wireframes, prototyping, UI design
-• Git, GitHub, technical workflow
-• Heroku
+• Wireframes, prototyping
+• Design
+• Agile Project Management
+
 
 
 WEB DEVELOPMENT PROJECTS
+
 nappiesapp.com 
-Design, built and maintained the whole platform, User and Market research, mobile and desktop design, End to end testing.
-Ruby on Rails, Javascript, PostgreSQL, Swift, HTML, CSS/SCSS, Bootstrap, Git, Github, Heroku, Sendgrid
+Design, built and maintained the whole platform, User and Market research, mobile and desktop design. Available on Web app and iOS App.
+Technologies: Ruby on Rails, Javascript, PostgreSQL, Swift, HTML, CSS/SCSS, Bootstrap,, Heroku, Sendgrid.
+
+coffee-in-indonesia.surge.sh
+Discover coffee around Indonesia from west to east.
+Technologies: React, HTML, CSS.
 
 social-reading.club
 Web application developed by a team of 5. Social Reading is a website to create and join bookgroups.
-Ruby on Rails, Javascript, PostgreSQL, HTML, CSS/SCSS, Bootstrap, Git, Github, Heroku
+Technologies: Ruby on Rails, Javascript, PostgreSQL, HTML, CSS/SCSS, Bootstrap, Git, Github, Heroku.
+
+drop-me-a-line.herokuapp.com
+Contact form for Rails App.
+Technologies: Rails,, HTML, CSS/SCSS.
+
+tulum-cocktail.herokuapp.com
+Web app to create and share cocktails recipe. 
+Technologies: Ruby on Rails, PostgreSQL, Javascript, Bootstrap, Heroku.
+
 
 
 WORK EXPERIENCE
+
 NAPPIES, Berlin (Jul 2020 - Present) - Founder
-Nappies, the right place to find baby-friendly cafes and restaurants to hangout with your little one in the city. It got released in the iOS store in July 2020
+Nappies is an application for finding the nearest baby friendly places wherever you want based on provided facilities. It got released in the iOS store in July 2020.
 
 Le Wagon, Berlin (Jan 2020 - Present) - Teaching Assistant
-Help students to solve technical problems and to understand the concepts of Ruby, OOP, MVC Architecture, Ruby on Rails as a teaching assistant at Le Wagon Berlin. By trying to lead them to the solutions, I also learn a lot!
+I help students to solve technical problems and to understand the concepts of Ruby, OOP, MVC Architecture, Ruby on Rails as a teaching assistant at Le Wagon Berlin, by leading them to the solutions.
 
 Re-Di School, Berlin (May 2020 - Present) - Teacher/Volunteer
-Help refugee kids to learn code for the first time.
+Participate in Kids and Digital Women Program. Contribute to Coding and Web Design Fundamentals courses.
 
-NovaTogatorop.com (Aug 2014 - Oct 2020) - Freelance Photographer
+Shutterstock, Oakland, CA (Oct  2015 - Oct 2019) - Freelance Photographer
+My work was focused on Lifestyle, Product, Travel, and Real Estate. Completed assignments for Marriot, Wells Fargo, Manulife Asia, UBS and etc.
+
 
 
 EDUCATION
+
+Le Wagon, Berlin (Oct 2019 - Dec 2019)
+9-week intensive coding bootcamp which taught me how to built RoR projects as both solo Full Stack developer, and a team player.
+
 Lasalle College International, Interior Design (2008 - 2011)
 Jakarta, Indonesia
 
 
-LET”S CHAT:
-nova@roadbeats.com
-+4917658159370
+
+LINKS
+
+www.novatogatorop.xyz
 github.com/novatogatorop
 linkedin.com/in/nova-togatorop-26823153/
 
-Currently Location;
+Current Location;
 Berlin, Germany
 
 

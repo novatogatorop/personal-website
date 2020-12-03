@@ -6,6 +6,11 @@ import {
   nappies,
   links,
   technologies,
+  overview,
+  functionality,
+  frontend,
+  backend,
+  deployment,
   blank } from "./Data";
 
 class Nappies extends Component {
@@ -17,6 +22,11 @@ class Nappies extends Component {
           <ProjectDetail {...links} />
           <ProjectDetail {...technologies} />
         </div>
+        <ProjectDetail {...overview} />
+        <ProjectDetail {...functionality} />
+        <ProjectDetail {...frontend} />
+        <ProjectDetail {...backend} />
+        <ProjectDetail {...deployment} />
         <ProjectDetail {...blank} />
       </>
     );

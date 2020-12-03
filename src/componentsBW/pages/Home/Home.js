@@ -28,7 +28,7 @@ class Home extends Component {
             I'm currently learning React and reading a book in my spare time.
           </h1>
           <h1 className="home-desc">
-            I'm a product minded developer who like to think and act as a user. Trigger to create a clear and clean design and also try to make conscious decisions to solve real-world problems.
+            I'm open for collaborations. If you’re interested in discussing a project, making something great together, or simply getting in touch, email me.
           </h1>
           <Headline {...technologies} />
           <div class="card">

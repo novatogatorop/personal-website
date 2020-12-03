@@ -23,6 +23,56 @@ export const technologies= {
   linkTwoName: ""
 };
 
+export const overview= {
+  title: "Overview",
+  description: "",
+  linkOneUrl: "",
+  linkOneName: "",
+  or: "",
+  linkTwoUrl: "",
+  linkTwoName: ""
+};
+
+export const functionality= {
+  title: "Functionality",
+  description: "Nappies offes a curated list ",
+  linkOneUrl: "",
+  linkOneName: "",
+  or: "",
+  linkTwoUrl: "",
+  linkTwoName: ""
+};
+
+export const frontend= {
+  title: "frontend",
+  description: "The frontend is built with Javascript, HTML and CSS/SCSS",
+  linkOneUrl: "",
+  linkOneName: "",
+  or: "",
+  linkTwoUrl: "",
+  linkTwoName: ""
+};
+
+export const backend= {
+  title: "backend",
+  description: "I'm using Ruby on Rails and PostgreSQL for Database",
+  linkOneUrl: "",
+  linkOneName: "",
+  or: "",
+  linkTwoUrl: "",
+  linkTwoName: ""
+};
+
+export const deployment= {
+  title: "deployment",
+  description: "Nappies is deployed with Heroku.",
+  linkOneUrl: "",
+  linkOneName: "",
+  or: "",
+  linkTwoUrl: "",
+  linkTwoName: ""
+};
+
 export const blank= {
   title: "",
   description: "",

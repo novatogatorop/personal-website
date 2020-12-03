@@ -10,11 +10,6 @@ export const NavbarItems = [
     cName: "nav-links"
   },
   {
-    title: "PHOTOGRAPHY",
-    path: "/photography",
-    cName: "nav-links"
-  },
-  {
     title: "STORY",
     path: "/story",
     cName: "nav-links"
