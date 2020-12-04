@@ -5,7 +5,7 @@ export const projects= {
 
 export const projectOne = {
   headline: "Nappies",
-  topLine: "A book club platform giving people the opportunity to join and launch reading groups that will meet up in real life, creating new incentives to read..",
+  topLine: "Nappies is an application for finding the nearest baby friendly places wherever you want based on provided facilities.",
   visit: "Visit:",
   webAppName: "Web App",
   webUrl: "https://nappiesapp.com/",
@@ -64,8 +64,8 @@ export const projectFour = {
   headline: "Kopi",
   topLine: "Discover coffee around Indonesia from west to east.",
   visit: "Visit:",
-  webAppName: "coffee-in-indonesia.surge.sh/",
-  webUrl: "coffee-in-indonesia.surge.sh/",
+  webAppName: "coffee-in-indonesia.surge.sh",
+  webUrl: "http://coffee-in-indonesia.surge.sh/",
   iosAppName: "",
   iosUrl: "",
   or: "",
