@@ -14,19 +14,21 @@ import Nappies from "./componentsBW/pages/Nappies/Nappies";
 class App extends Component {
   render() {
     return (
-      <Router>
-      <Navbar />
-      <Switch>
-        <Route path="/" exact component={Home}/>
-        <Route path='/projects' component={Projects} />
-        <Route path='/experience' component={Experience} />
-        <Route path='/photography' component={Photography} />
-        <Route path='/story' component={Story} />
-        <Route path='/contact' component={Contact} />
-        <Route path='/nappies' component={Nappies} />
-      </Switch>
-      <Footer />
-    </Router>
+      <div className="Pages">
+        <Router>
+          <Navbar />
+          <Switch>
+            <Route path="/" exact component={Home}/>
+            <Route path='/projects' component={Projects} />
+            <Route path='/experience' component={Experience} />
+            <Route path='/photography' component={Photography} />
+            <Route path='/story' component={Story} />
+            <Route path='/contact' component={Contact} />
+            <Route path='/nappies' component={Nappies} />
+          </Switch>
+          <Footer />
+        </Router>
+      </div>
     );
   }
 }

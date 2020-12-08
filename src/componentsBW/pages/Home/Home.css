@@ -4,16 +4,6 @@
   --black : black;
 }
 
-
-.Home {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  padding-left: 60px;
-  padding-right: 60px;
-  box-sizing: border-box;
-  width: 100%;
-}
-
 .home-desc {
   font-family: times new roman, sans-serif;
   padding-top: 0;
@@ -34,8 +24,10 @@
 }
 
 @media screen and (max-width: 960px) {
-  .Home {
-    padding-left: 30px;
-    padding-right: 30px;
+  .card {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 24px;
   }
 }

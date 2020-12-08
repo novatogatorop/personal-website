@@ -8,7 +8,7 @@ nova@roadbeats.com
 
 ABOUT ME
 
-I'm a product minded Full Stack developer who loves solving real problems with my design and software development skills.
+I'm a product minded Full Stack developer who loves solving real world problems with my design and software development skills.
 
 After working in design and photography industry for 5 years, I made a career switch to software development, graduating from Le Wagon, Berlin coding bootcamp in 2019, where I currently work as a teaching assistant.
 
@@ -73,7 +73,7 @@ EDUCATION
 Le Wagon, Berlin (Oct 2019 - Dec 2019)
 9-week intensive coding bootcamp which taught me how to built RoR projects as both solo Full Stack developer, and a team player.
 
-Lasalle College International, Jakarta, Indonesia (2008 - 2011) - Interior Design
+Lasalle College International, Jakarta, Indonesia (Oct 2008 - Apr 2011) - Interior Design
 I learnt to conceptualize and produce aesthetic, functional spaces and designs.
 
 
