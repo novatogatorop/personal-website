@@ -9,6 +9,7 @@ export const NavbarItems = [
     path: "/experience",
     cName: "nav-links"
   },
+  {/*
   {
     title: "STORY",
     path: "/story",
@@ -19,4 +20,5 @@ export const NavbarItems = [
     path: "/contact",
     cName: "nav-links"
   },
+  */}
 ]
