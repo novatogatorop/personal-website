@@ -7,6 +7,7 @@ import Projects from "./componentsBW/pages/Projects/Projects";
 import Experience from "./componentsBW/pages/Experience/Experience";
 import Nappies from "./componentsBW/pages/Nappies/Nappies";
 import Footer from "./componentsBW/pages/Footer/Footer";
+import NotFound from "./componentsBW/NotFound";
 
 class App extends Component {
   render() {
@@ -19,6 +20,7 @@ class App extends Component {
             <Route path='/projects' component={Projects} />
             <Route path='/experience' component={Experience} />
             <Route path='/nappies' component={Nappies} />
+            <Route component={NotFound} />
           </Switch>
           <Footer />
         </Router>
