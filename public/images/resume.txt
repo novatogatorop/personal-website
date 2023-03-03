@@ -1,5 +1,5 @@
 Nova Togatorop
-FULLSTACK DEVELOPER
+FULL STACK DEVELOPER
 
 nova@roadbeats.com
 +4917658159370
@@ -8,20 +8,21 @@ nova@roadbeats.com
 
 ABOUT ME
 
-I'm a product minded Full Stack developer who loves solving real world problems with my design and software development skills.
+I'm a product minded Full Stack developer who loves solving real world problems with my design and software development skills. I would like to think and sketch the product ideas before implementing code. I’m also emphatic about how the product makes users feel and how those users benefit from using the product itself.
 
-After working in design and photography industry for 5 years, I made a career switch to software development, graduating from Le Wagon, Berlin coding bootcamp in 2019, where I currently work as a teaching assistant.
+After working in design and photography industry for 5 years, I made a career switch to software development, graduating from Le Wagon, Berlin coding bootcamp in 2019.
 
 
 
 TECHNICAL SKILLS
 
 • Ruby on Rails
-• ES6 Javascript
 • React (Learning)
+• Typescript
+• ES6 Javascript
 • Relational database, SQL, PostgreSQL
 • Swift, Xcode
-• HTML5, CSS/SCSS, Bootstrap
+• HTML, CSS/SCSS, Tailwind
 • Wireframes, prototyping
 • Design
 • Agile Project Management
@@ -30,7 +31,7 @@ TECHNICAL SKILLS
 
 WEB DEVELOPMENT PROJECTS
 
-nappiesapp.com 
+nappiesapp.com
 Design, built and maintained the whole platform, User and Market research, mobile and desktop design. Available on Web app and iOS App.
 Technologies: Ruby on Rails, Javascript, PostgreSQL, Swift, HTML, CSS/SCSS, Bootstrap,, Heroku, Sendgrid.
 
@@ -47,12 +48,20 @@ Contact form for Rails App.
 Technologies: Rails,, HTML, CSS/SCSS.
 
 tulum-cocktail.herokuapp.com
-Web app to create and share cocktails recipe. 
+Web app to create and share cocktails recipe.
 Technologies: Ruby on Rails, PostgreSQL, Javascript, Bootstrap, Heroku.
 
 
 
 WORK EXPERIENCE
+
+WebinarGeek, Berlin (Jan 2022 - January 2023) - Full Stack Engineer
+Work on a team of 8 to rebuild the frontend streaming app from legacy written in Ruby on Rails to React + Typescript.
+Improved API endpoints and data structures while integrating the React-based frontend with the Rails backend.
+Working closely with product designer, brainstorm about UX, and mobile flow, continuously giving detailed input from user and technical perspective.
+
+Arbour GmbH, Berlin (Apr 2021 - Oct 2021) - Software Engineer
+Work focused on software development, test coverage, User Interface improvements and bug fixes. Building and maintaining new landing page of the site.
 
 NAPPIES, Berlin (Jul 2020 - Present) - Founder
 Nappies is an application for finding the nearest baby friendly places wherever you want based on provided facilities. It got released in the iOS store in July 2020.
@@ -79,9 +88,9 @@ I learnt to conceptualize and produce aesthetic, functional spaces and designs.
 
 LINKS
 
-www.novatogatorop.xyz
+novatogatorop.com
 github.com/novatogatorop
-linkedin.com/in/nova-togatorop-26823153/
+linkedin.com/in/nova-togatorop/
 
 Current Location;
 Berlin, Germany
