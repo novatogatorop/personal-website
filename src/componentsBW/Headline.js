@@ -1,10 +1,7 @@
-import React, { Component } from 'react';
+import React from "react";
 import "./Headline.css";
 
-function Headline({
-  title,
-  description
-}) {
+function Headline({ title, description }) {
   return (
     <>
       <div class="Headline">
@@ -15,5 +12,5 @@ function Headline({
       </div>
     </>
   );
-};
+}
 export default Headline;

@@ -1,6 +1,5 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import "./Projects"
+import React, { Component } from "react";
+import "./Projects";
 import Banner from "../../Banner";
 import Intro from "../../Intro";
 import {
@@ -8,7 +7,8 @@ import {
   projectOne,
   projectTwo,
   projectThree,
-  projectFour } from "./Data";
+  projectFour,
+} from "./Data";
 
 class Projects extends Component {
   render() {

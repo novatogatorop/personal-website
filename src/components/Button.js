@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import "./Button.css"
+import React from "react";
+import "./Button.css";
 
 const STYLE = ["btn--primary", "btn--outline"];
 
@@ -13,7 +13,7 @@ export const Button = ({
   onClick,
   buttonStyle,
   buttonSize,
-  buttonColor
+  buttonColor,
 }) => {
   const checkButtonStyle = STYLE.includes(buttonStyle) ? buttonStyle : STYLE[0];
 
@@ -22,13 +22,15 @@ export const Button = ({
   const checkButtonColor = COLOR.includes(buttonColor) ? buttonColor : null;
 
   return (
-    <button className={`
+    <button
+      className={`
       btn ${checkButtonStyle}
       ${checkButtonSize}
       ${checkButtonColor}`}
       onClick={onClick}
-      type={type}>
+      type={type}
+    >
       {children}
-      </button>
+    </button>
   );
 };

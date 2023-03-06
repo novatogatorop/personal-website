@@ -1,5 +1,4 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
 import "./ProjectDetail.css";
 import Button from "./Button";
 
@@ -10,7 +9,7 @@ function ProjectDetail({
   linkOneName,
   or,
   linkTwoUrl,
-  linkTwoName
+  linkTwoName,
 }) {
   return (
     <>
@@ -19,22 +18,23 @@ function ProjectDetail({
         <div class="project-detail-description-wrapper">
           <div class="project-detail-description">{description}</div>
           <div class="project-detail-link">
-            <a target="_blank" href={linkOneUrl}>
-            <Button>
-              {linkOneName}
-            </Button>
-          </a>
-          <div className="project-detail-or">{or}</div>
-          <a className="project-detail-link-two" target="_blank" href={linkTwoUrl}>
-          <Button>
-              {linkTwoName}
-            </Button>
-          </a>
+            <a target="_blank" href={linkOneUrl} rel="noreferrer">
+              <Button>{linkOneName}</Button>
+            </a>
+            <div className="project-detail-or">{or}</div>
+            <a
+              className="project-detail-link-two"
+              target="_blank"
+              href={linkTwoUrl}
+              rel="noreferrer"
+            >
+              <Button>{linkTwoName}</Button>
+            </a>
           </div>
         </div>
       </div>
     </>
   );
-};
+}
 
 export default ProjectDetail;

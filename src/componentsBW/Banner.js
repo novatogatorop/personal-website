@@ -1,10 +1,7 @@
-import React, { Component } from 'react';
+import React from "react";
 import "./Banner.css";
 
-function Banner({
-  title,
-  description
-}) {
+function Banner({ title, description }) {
   return (
     <>
       <div class="Banner">
@@ -13,6 +10,6 @@ function Banner({
       </div>
     </>
   );
-};
+}
 
 export default Banner;

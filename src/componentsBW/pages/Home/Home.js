@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./Home.css";
-import Button from "../../Button";
 import Headline from "../../Headline";
 import Card from "../../Card";
 import {

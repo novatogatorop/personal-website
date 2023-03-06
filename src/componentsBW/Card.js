@@ -1,19 +1,15 @@
-import React, { Component } from 'react';
+import React from "react";
 import "./Card.css";
 
-function Card({
-  img,
-  title,
-  alt
-}) {
+function Card({ img, title, alt }) {
   return (
     <>
       <div className="Card">
-        <img src={img} class="card-img" />
+        <img alt={img} src={img} class="card-img" />
         <div class="card-title">{title}</div>
       </div>
     </>
   );
-};
+}
 
 export default Card;
