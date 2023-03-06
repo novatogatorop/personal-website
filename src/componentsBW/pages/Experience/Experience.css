@@ -1,0 +1,26 @@
+.experience-list {
+  margin-bottom: 60px;
+}
+
+.listHeading {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.company {
+  padding-left: 5px;
+}
+
+.period {
+  margin-bottom: 16px;
+  color: grey;
+}
+
+.description {
+  letter-spacing: 1px;
+  line-height: 16px;
+}
